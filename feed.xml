@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Woks Like A Charm</title>
+    <description>A blog to write about cooking and record delicious Chinese fusion recipes.
+</description>
+    <link>https://wokslikeacharm.github.io/</link>
+    <atom:link href="https://wokslikeacharm.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 16 Apr 2016 18:54:21 -0400</pubDate>
+    <lastBuildDate>Sat, 16 Apr 2016 18:54:21 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Welcome to Woks Like A Charm!</title>
+        <description>&lt;p&gt;Welcome to the blog!&lt;/p&gt;
+
+&lt;p&gt;Here’s how to make a delicious &lt;em&gt;hard boiled egg&lt;/em&gt;:&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;A few eggs, raw&lt;/li&gt;
+  &lt;li&gt;Water&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Put the eggs into cold tap water and heat on medium high.&lt;/li&gt;
+  &lt;li&gt;As soon as the water starts simmering, turn off the stove and remove the pot from the heat. Keep the lid of the pot closed.&lt;/li&gt;
+  &lt;li&gt;For soft boiled eggs, wait 5 minutes. For hard boiled eggs, wait 7 minutes.&lt;/li&gt;
+  &lt;li&gt;Remove the eggs from the pot. Rinse briefly with cold tap water which helps peeling. Enjoy with some salt and pepper.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 16 Apr 2016 13:30:21 -0400</pubDate>
+        <link>https://wokslikeacharm.github.io/2016/04/16/welcome-to-woks-like-a-charm.html</link>
+        <guid isPermaLink="true">https://wokslikeacharm.github.io/2016/04/16/welcome-to-woks-like-a-charm.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
